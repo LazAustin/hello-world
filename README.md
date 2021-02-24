@@ -1,4 +1,4 @@
 # hello-world
 My first github project
 
-This is me experimenting with GitHub. yadayadayada
+This is me starting my GitHub.
