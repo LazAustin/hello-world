@@ -1,4 +1,3 @@
 # hello-world
-My first github project
 
-This is me starting my GitHub.
+My very first remote Github repo.
